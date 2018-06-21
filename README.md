@@ -8,7 +8,7 @@ _this service listens to these messages on these topics_
 _these are the APIs called by this service_
 
 ## Messages sent
-_these messages are sent by thus service to the these topics_
+_these messages are sent by this service to the these topics_
 
 
 
